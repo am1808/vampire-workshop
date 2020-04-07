@@ -37,7 +37,7 @@ material:file=uni.mat
 #------------------------------------------
 ######################################
 sim:minimum-temperature = 0               
-sim:maximum-temperature = 2000
+sim:maximum-temperature = 1000
 sim:temperature-increment = 100
 ######################################
 
